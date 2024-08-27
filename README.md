@@ -21,7 +21,6 @@ Application Security Analyst
 * Sun Certified Java professional.
 
 ## Tool Knowledgebase
-——————————————————————————————————————————————
 ### Security
 * Scanners and Penetration Testing: Veracode, Fortify, Checkmarx, Metasploit, Burp Suite, Kali Linux.
 * Automation: Snyk for SAST and SCA automation; Burp Enterprise and Qualys for DAST automation, Contrast Security for Runtime Application Self Protection (RASP).
