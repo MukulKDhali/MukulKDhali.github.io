@@ -1,5 +1,7 @@
 # Mukul Kumar Dhali
-Application Security Analyst IV
+Application Security Analyst
+
+[Linkedin Profile](https://www.linkedin.com/in/m75452/)
 
 ## Academic Qualifications
 
@@ -10,3 +12,10 @@ Application Security Analyst IV
 | **Master of Computer Application** <br>  _Motilal Nehru National Institute of Technology_ | Jun 2004 - Jun 2007 <br> _Prayagraj, Uttar Pradesh, India_ |
 | **Bachelor of Computer Application** <br> _Burdwan University_ | Jun 2001 - Apr 2004 <br> _West Bengal, India_|
 
+## Certifications
+
+* AWS Certified Solution Architect - Associate
+* Amazon Web Services Cloud Practitioner
+* Qualys Certified Specialist — Web Application Scanning
+* Certified SAFe® 6 DevOps Practitioner
+* Sun Certified Java professional.
